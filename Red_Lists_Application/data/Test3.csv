@@ -1,0 +1,702 @@
+Klasse,Nederlandse naam,Wetenschappelijke naam,Status,Trend
+Amfibieën,Boomkikker,Hyla arborea,bedreigd,matig afgenomen
+Amfibieën,Geelbuikvuurpad,Bombina variegata,ernstig bedreigd,matig afgenomen
+Amfibieën,Kamsalamander,Triturus cristatus,kwetsbaar,matig afgenomen
+Amfibieën,Knoflookpad,Pelobates fuscus,bedreigd,matig afgenomen
+Amfibieën,Rugstreeppad,Bufo calamita,gevoelig,matig afgenomen
+Amfibieën,Vinpootsalamander,Lissotriton helveticus,kwetsbaar,matig afgenomen
+Amfibieën,Vroedmeesterpad,Alytes obstetricans,kwetsbaar,matig afgenomen
+Amfibieën,Vuursalamander,Salamandra salamandra,bedreigd,matig afgenomen
+Vogels,Blauwe kiekendief,Circus cyaneus,gevoelig,niet afgenomen
+Vogels,Boerenzwaluw,Hirundo rustica,gevoelig,zeer sterk afgenomen
+Vogels,Bontbekplevier,Charadrius hiaticula ssp. hiaticula,kwetsbaar,matig afgenomen
+Vogels,Boomvalk,Falco subbuteo ssp. subbuteo,kwetsbaar,matig afgenomen
+Vogels,Brilduiker,Bucephala clangula ssp. clangula,gevoelig,niet afgenomen
+Vogels,Buidelmees,Remiz pendulinus ssp. pendulinus,gevoelig,niet afgenomen
+Vogels,Draaihals,Jynx torquilla ssp. torquilla,ernstig bedreigd,zeer sterk afgenomen
+Vogels,Drieteenmeeuw,Rissa tridactyla,gevoelig,onbekend
+Vogels,Duinpieper,Anthus campestris ssp. campestris,verdwenen uit Nederland,zeer sterk afgenomen
+Vogels,Dwergmeeuw,Hydrocoloeus minutus,ernstig bedreigd,zeer sterk afgenomen
+Vogels,Dwergstern,Sternula albifrons ssp. albifrons,kwetsbaar,sterk afgenomen
+Vogels,Engelse kwikstaart,Motacilla flava ssp. flavissima,gevoelig,sterk afgenomen
+Vogels,Europese kanarie,Serinus serinus,bedreigd,niet afgenomen
+Vogels,Gele kwikstaart,Motacilla flava ssp. flava,gevoelig,sterk afgenomen
+Vogels,Goudplevier,Pluvialis apricaria,verdwenen uit Nederland,maximaal afgenomen
+Vogels,Graspieper,Anthus pratensis ssp. pratensis,gevoelig,sterk afgenomen
+Vogels,Graszanger,Cisticola juncidis ssp. cisticola,gevoelig,onbekend
+Vogels,Grauwe gors,Emberiza calandra ssp. calandra,ernstig bedreigd,zeer sterk afgenomen
+Vogels,Grauwe kiekendief,Circus pygargus,ernstig bedreigd,zeer sterk afgenomen
+Vogels,Grauwe klauwier,Lanius collurio ssp. collurio,bedreigd,sterk afgenomen
+Vogels,Grauwe vliegenvanger,Muscicapa striata ssp. striata,gevoelig,sterk afgenomen
+Vogels,Griel,Burhinus oedicnemus ssp. oedicnemus,verdwenen uit Nederland,maximaal afgenomen
+Vogels,Groene specht,Picus viridis ssp. viridis,kwetsbaar,matig afgenomen
+Vogels,Grote karekiet,Acrocephalus arundinaceus ssp. arundinaceus,bedreigd,zeer sterk afgenomen
+Vogels,Grote lijster,Turdus viscivorus ssp. viscivorus,kwetsbaar,niet afgenomen
+Vogels,Grote mantelmeeuw,Larus marinus,gevoelig,niet afgenomen
+Vogels,Grote stern,Sterna sandvicensis ssp. sandvicensis,kwetsbaar,sterk afgenomen
+Vogels,Grote zilverreiger,Casmerodius albus ssp. albus,gevoelig,niet afgenomen
+Vogels,Grutto,Limosa limosa ssp. limosa,gevoelig,sterk afgenomen
+Vogels,Hop,Upupa epops ssp. epops,verdwenen uit Nederland,maximaal afgenomen
+Vogels,Huismus,Passer domesticus ssp. domesticus,gevoelig,sterk afgenomen
+Vogels,Huiszwaluw,Delichon urbicum ssp. urbicum,gevoelig,zeer sterk afgenomen
+Vogels,Keep,Fringilla montifringilla,gevoelig,niet afgenomen
+Vogels,Kemphaan,Calidris pugnax,ernstig bedreigd,zeer sterk afgenomen
+Vogels,Kerkuil,Tyto alba ssp. guttata,kwetsbaar,matig afgenomen
+Vogels,Klapekster,Lanius excubitor ssp. excubitor,verdwenen uit Nederland,zeer sterk afgenomen
+Vogels,Kleine zilverreiger,Egretta garzetta ssp. garzetta,gevoelig,niet afgenomen
+Vogels,Kleinst waterhoen,Porzana pusilla ssp. intermedia,gevoelig,maximaal afgenomen
+Vogels,Kneu,Carduelis cannabina ssp. cannabina,gevoelig,zeer sterk afgenomen
+Vogels,Koekoek,Cuculus canorus ssp. canorus,kwetsbaar,sterk afgenomen
+Vogels,Korhoen,Tetrao tetrix ssp. tetrix,ernstig bedreigd,zeer sterk afgenomen
+Vogels,Kortsnavelboomkruiper,Certhia familiaris ssp. macrodactyla,gevoelig,niet afgenomen
+Vogels,Kraanvogel,Grus grus ssp. grus,gevoelig,onbekend
+Vogels,Kramsvogel,Turdus pilaris,gevoelig,niet afgenomen
+Vogels,Kuifleeuwerik,Galerida cristata ssp. cristata,ernstig bedreigd,zeer sterk afgenomen
+Vogels,Kwak,Nycticorax nycticorax ssp. nycticorax,ernstig bedreigd,maximaal afgenomen
+Vogels,Kwartelkoning,Crex crex,bedreigd,matig afgenomen
+Vogels,Lachstern,Gelochelidon nilotica ssp. nilotica,verdwenen uit Nederland,maximaal afgenomen
+Vogels,Matkop,Parus montanus ssp. rhenanus,gevoelig,sterk afgenomen
+Vogels,Middelste zaagbek,Mergus serrator,gevoelig,niet afgenomen
+Vogels,Nachtegaal,Luscinia megarhynchos ssp. megarhynchos,kwetsbaar,matig afgenomen
+Vogels,Nachtzwaluw,Caprimulgus europaeus ssp. europaeus,kwetsbaar,matig afgenomen
+Vogels,Noordse stern,Sterna paradisaea,bedreigd,niet afgenomen
+Vogels,Oehoe,Bubo bubo ssp. bubo,gevoelig,onbekend
+Vogels,Oeverloper,Actitis hypoleucos,gevoelig,niet afgenomen
+Vogels,Ortolaan,Emberiza hortulana,verdwenen uit Nederland,zeer sterk afgenomen
+Vogels,Paapje,Saxicola rubetra,bedreigd,zeer sterk afgenomen
+Vogels,Patrijs,Perdix perdix ssp. perdix,kwetsbaar,zeer sterk afgenomen
+Vogels,Pijlstaart,Anas acuta ssp. acuta,bedreigd,sterk afgenomen
+Vogels,Porseleinhoen,Porzana porzana,kwetsbaar,matig afgenomen
+Vogels,Purperreiger,Ardea purpurea ssp. purpurea,bedreigd,sterk afgenomen
+Vogels,Raaf,Corvus corax ssp. corax,gevoelig,niet afgenomen
+Vogels,Ransuil,Asio otus ssp. otus,kwetsbaar,matig afgenomen
+Vogels,Ringmus,Passer montanus ssp. montanus,gevoelig,sterk afgenomen
+Vogels,Roerdomp,Botaurus stellaris ssp. stellaris,kwetsbaar,sterk afgenomen
+Vogels,Roodhalsfuut,Podiceps grisegena ssp. grisegena,gevoelig,niet afgenomen
+Vogels,Roodkopklauwier,Lanius senator ssp. senator,verdwenen uit Nederland,maximaal afgenomen
+Vogels,Roodmus,Carpodacus erythrinus ssp. erythrinus,gevoelig,onbekend
+Vogels,Slechtvalk,Falco peregrinus ssp. peregrinus,gevoelig,niet afgenomen
+Vogels,Slobeend,Anas clypeata,kwetsbaar,matig afgenomen
+Vogels,Smient,Anas penelope,gevoelig,niet afgenomen
+Vogels,Snor,Locustella luscinioides ssp. luscinioides,kwetsbaar,matig afgenomen
+Vogels,Spotvogel,Hippolais icterina,gevoelig,sterk afgenomen
+Vogels,Steenuil,Athene noctua ssp. vidalii,kwetsbaar,sterk afgenomen
+Vogels,Steltkluut,Himantopus himantopus,gevoelig,niet afgenomen
+Vogels,Strandplevier,Charadrius alexandrinus ssp. alexandrinus,bedreigd,sterk afgenomen
+Vogels,Tapuit,Oenanthe oenanthe ssp. oenanthe,bedreigd,zeer sterk afgenomen
+Vogels,Torenvalk,Falco tinnunculus ssp. tinnunculus,kwetsbaar,niet afgenomen
+Vogels,Tureluur,Tringa totanus ssp. totanus,gevoelig,sterk afgenomen
+Vogels,Veldleeuwerik,Alauda arvensis ssp. arvensis,gevoelig,zeer sterk afgenomen
+Vogels,Velduil,Asio flammeus ssp. flammeus,ernstig bedreigd,zeer sterk afgenomen
+Vogels,Visdief,Sterna hirundo ssp. hirundo,gevoelig,matig afgenomen
+Vogels,Watersnip,Gallinago gallinago ssp. gallinago,bedreigd,zeer sterk afgenomen
+Vogels,Wielewaal,Oriolus oriolus ssp. oriolus,kwetsbaar,matig afgenomen
+Vogels,Wilde zwaan,Cygnus cygnus,gevoelig,onbekend
+Vogels,Wintertaling,Anas crecca ssp. crecca,kwetsbaar,matig afgenomen
+Vogels,Woudaap,Ixobrychus minutus ssp. minutus,ernstig bedreigd,zeer sterk afgenomen
+Vogels,Wulp,Numenius arquata ssp. arquata,kwetsbaar,niet afgenomen
+Vogels,Zeearend,Haliaeetus albicilla,gevoelig,onbekend
+Vogels,Zomertaling,Anas querquedula,bedreigd,zeer sterk afgenomen
+Vogels,Zomertortel,Streptopelia turtur ssp. turtur,kwetsbaar,zeer sterk afgenomen
+Vogels,Zuidelijke bonte strandloper,Calidris alpina ssp. schinzii,verdwenen uit Nederland,maximaal afgenomen
+Vogels,Zwarte mees,Parus ater ssp. ater,gevoelig,niet afgenomen
+Vogels,Zwarte stern,Chlidonias niger ssp. niger,bedreigd,zeer sterk afgenomen
+Vissen,Adderzeenaald,Entelurus aequoraeus,bedreigd,sterk afgenomen
+Vissen,Ansjovis,Engraulis encrasicolus,gevoelig,sterk afgenomen
+Vissen,Barbeel,Barbus barbus,bedreigd,zeer sterk afgenomen
+Vissen,Beekforel,Salmo trutta ssp. fario,verdwenen uit Nederland,maximaal afgenomen
+Vissen,Beekprik,Lampetra planeri,bedreigd,sterk afgenomen
+Vissen,Bittervoorn,Rhodeus amarus,kwetsbaar,matig afgenomen
+Vissen,Botervis,Pholis gunnulus,kwetsbaar,matig afgenomen
+Vissen,Driedradige meun,Gaidropsurus vulgaris,kwetsbaar,sterk afgenomen
+Vissen,Elrits,Phoxinus phoxinus,bedreigd,sterk afgenomen
+Vissen,Fint,Alosa fallax,verdwenen uit Nederland,maximaal afgenomen
+Vissen,Gestippelde alver,Alburnoides bipunctatus,gevoelig,niet afgenomen
+Vissen,Gevlekte gladde haai,Mustelus asterias,gevoelig,niet afgenomen
+Vissen,Gevlekte griet,Zeugopterus punctatus,gevoelig,niet afgenomen
+Vissen,Glasgrondel,Aphia minuta,ernstig bedreigd,zeer sterk afgenomen
+Vissen,Grote koornaarvis,Atherina presbyter,bedreigd,sterk afgenomen
+Vissen,Grote modderkruiper,Misgurnus fossilis,kwetsbaar,sterk afgenomen
+Vissen,Grote pieterman,Trachinus draco,bedreigd,zeer sterk afgenomen
+Vissen,Kleine slakdolf,Liparis montagui,gevoelig,niet afgenomen
+Vissen,Kopvoorn,Leuciscus cephalus,kwetsbaar,zeer sterk afgenomen
+Vissen,Kroeskarper,Carassius carassius,kwetsbaar,matig afgenomen
+Vissen,Kwabaal,Lota lota,bedreigd,zeer sterk afgenomen
+Vissen,Pijlstaartrog,Dasyatis pastinaca,ernstig bedreigd,zeer sterk afgenomen
+Vissen,Ruwe haai,Galeorhinus galeus,kwetsbaar,matig afgenomen
+Vissen,Serpeling,Leuciscus leuciscus,kwetsbaar,sterk afgenomen
+Vissen,Sneep,Chondrostoma nasus,bedreigd,zeer sterk afgenomen
+Vissen,Stekelrog,Raja clavata,kwetsbaar,zeer sterk afgenomen
+Vissen,Steur,Acipenser sturio,verdwenen uit Nederland,maximaal afgenomen
+Vissen,Trompetterzeenaald,Syngnathus typhle,verdwenen uit Nederland,maximaal afgenomen
+Vissen,Vetje,Leucaspius delineatus,kwetsbaar,sterk afgenomen
+Vissen,Vlagzalm,Thymallus thymallus,verdwenen uit Nederland,maximaal afgenomen
+Vissen,Vorskwab,Raniceps raninus,gevoelig,niet afgenomen
+Vissen,Winde,Leuciscus idus,gevoelig,sterk afgenomen
+Vissen,Zeepaardje,Hippocampus ramulosus,verdwenen uit Nederland,maximaal afgenomen
+Vissen,Zeestekelbaars,Spinachia spinachia,ernstig bedreigd,zeer sterk afgenomen
+Vissen,Zwarte grondel,Gobius niger,gevoelig,niet afgenomen
+Bijen,Andoornbij,Anthophora furcata,kwetsbaar,matig afgenomen
+Bijen,Bergbehangersbij,Megachile alpicola,ernstig bedreigd,sterk afgenomen
+Bijen,Blauwe metselbij,Osmia caerulescens,kwetsbaar,matig afgenomen
+Bijen,Blauwe zandbij,Andrena agilissima,gevoelig,niet afgenomen
+Bijen,Blauwzwarte houtbij,Xylocopa violacea,bedreigd,sterk afgenomen
+Bijen,Blokhoofdgroefbij,Halictus maculatus,gevoelig,sterk afgenomen
+Bijen,Boemerangmaskerbij,Hylaeus difformis,gevoelig,niet afgenomen
+Bijen,Boloog,Bombus confusus,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Bonte wespbij,Nomada bifasciata,kwetsbaar,matig afgenomen
+Bijen,Boommetselbij,Osmia parietina,bedreigd,onbekend
+Bijen,Borstelgroefbij,Lasioglossum nitidiusculum,ernstig bedreigd,sterk afgenomen
+Bijen,Borstelwespbij,Nomada stigma,gevoelig,niet afgenomen
+Bijen,Bosbloedbij,Sphecodes ephippius,kwetsbaar,matig afgenomen
+Bijen,Boshommel,Bombus sylvarum,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Boswespbij,Nomada opaca,bedreigd,sterk afgenomen
+Bijen,Boszandbij,Andrena coitana,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Breedbanddwergzandbij,Andrena pusilla,ernstig bedreigd,sterk afgenomen
+Bijen,Breedbandgroefbij,Halictus scabiosae,gevoelig,niet afgenomen
+Bijen,Breedbuikgroefbij,Lasioglossum lativentre,bedreigd,zeer sterk afgenomen
+Bijen,Bremzandbij,Andrena ovatula,kwetsbaar,matig afgenomen
+Bijen,Bruine rouwbij,Melecta albifrons,kwetsbaar,sterk afgenomen
+Bijen,Bruine slobkousbij,Macropis fulvipes,gevoelig,niet afgenomen
+Bijen,Bruinsprietwespbij,Nomada fuscicornis,bedreigd,zeer sterk afgenomen
+Bijen,Combigroefbij,Lasioglossum intermedium,ernstig bedreigd,sterk afgenomen
+Bijen,Composietglansbij,Dufourea minuta,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Donkere dubbeltand,Nomada obscura,bedreigd,matig afgenomen
+Bijen,Donkere klaverzandbij,Andrena labialis,kwetsbaar,sterk afgenomen
+Bijen,Donkere klokjeszandbij,Andrena pandellei,bedreigd,maximaal afgenomen
+Bijen,Donkere rimpelrug,Andrena bimaculata,kwetsbaar,sterk afgenomen
+Bijen,Donkere tuinhommel,Bombus subterraneus,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Donkere wilgenzandbij,Andrena apicata,bedreigd,matig afgenomen
+Bijen,Donkere zomerzandbij,Andrena nigriceps,bedreigd,matig afgenomen
+Bijen,Doornkaakzandbij,Andrena trimmerana,gevoelig,onbekend
+Bijen,Doornloze wespbij,Nomada emarginata,bedreigd,sterk afgenomen
+Bijen,Driedoornige metselbij,Hoplitis tridentata,gevoelig,niet afgenomen
+Bijen,Dubbeldoornwespbij,Nomada femoralis,bedreigd,zeer sterk afgenomen
+Bijen,Duingroefbij,Lasioglossum tarsatum,bedreigd,onbekend
+Bijen,Duinkegelbij,Coelioxys mandibularis,kwetsbaar,matig afgenomen
+Bijen,Duinmaskerbij,Hylaeus annularis,kwetsbaar,niet afgenomen
+Bijen,Dwerggroefbij,Lasioglossum pygmaeum,gevoelig,zeer sterk afgenomen
+Bijen,Eikenzandbij,Andrena ferox,gevoelig,niet afgenomen
+Bijen,Ericabij,Megachile analis,ernstig bedreigd,matig afgenomen
+Bijen,Gebandeerde dwergzandbij,Andrena niveata,bedreigd,zeer sterk afgenomen
+Bijen,Gedoornde groefbij,Lasioglossum laevigatum,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Gedoornde slakkenhuisbij,Osmia spinulosa,kwetsbaar,matig afgenomen
+Bijen,Gedrongen wespbij,Nomada guttulata,bedreigd,sterk afgenomen
+Bijen,Geelgerande tubebij,Stelis punctulatissima,kwetsbaar,matig afgenomen
+Bijen,Geelgespoorde houtmetselbij,Hoplitis claviventris,kwetsbaar,onbekend
+Bijen,Geelschouderwespbij,Nomada ferruginata,kwetsbaar,matig afgenomen
+Bijen,Geelstaartklaverzandbij,Andrena wilkella,kwetsbaar,matig afgenomen
+Bijen,Gehoornde metselbij,Osmia cornuta,kwetsbaar,matig afgenomen
+Bijen,Gekielde dwergzandbij,Andrena strohmella,gevoelig,onbekend
+Bijen,Gelderse zandbij,Andrena gelriae,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Gele hommel,Bombus distinguendus,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Gele tubebij,Stelis signata,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Gele wespbij,Nomada mutica,gevoelig,niet afgenomen
+Bijen,Gestippelde maskerbij,Hylaeus clypearis,gevoelig,sterk afgenomen
+Bijen,Gestippelde smaragdgroefbij,Lasioglossum aeratum,gevoelig,onbekend
+Bijen,Gestreepte bloedbij,Sphecodes rufiventris,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Gewone kegelbij,Coelioxys inermis,bedreigd,sterk afgenomen
+Bijen,Gewone klokjesglansbij,Dufourea dentiventris,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Gewone klokjeszandbij,Andrena curvungula,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Gewone langhoornbij,Eucera longicornis,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Gewone pantserbij,Biastes truncatus,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Gewone tubebij,Stelis breviuscula,kwetsbaar,matig afgenomen
+Bijen,Gladde groefbij,Lasioglossum laeve,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Glanzende dwergwespbij,Nomada furva,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Glimmende smaragdgroefbij,Lasioglossum nitidulum,kwetsbaar,onbekend
+Bijen,Gouden kegelbij,Coelioxys aurolimbata,bedreigd,zeer sterk afgenomen
+Bijen,Gouden slakkenhuisbij,Osmia aurulenta,kwetsbaar,matig afgenomen
+Bijen,Goudstaartzandbij,Andrena chrysopyga,verdwenen uit Nederland,sterk afgenomen
+Bijen,Grashommel,Bombus ruderarius,kwetsbaar,sterk afgenomen
+Bijen,Grijze rimpelrug,Andrena tibialis,kwetsbaar,matig afgenomen
+Bijen,Groene zandbij,Andrena viridescens,gevoelig,niet afgenomen
+Bijen,Groepjesgroefbij,Lasioglossum malachurum,kwetsbaar,matig afgenomen
+Bijen,Grote glimmende zandbij,Andrena polita,kwetsbaar,matig afgenomen
+Bijen,Grote harsbij,Trachusa byssina,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Grote kegelbij,Coelioxys conoidea,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Grote koekoekshommel,Bombus vestalis,kwetsbaar,onbekend
+Bijen,Grote metselbij,Osmia xanthomelana,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Grote roetbij,Panurgus banksianus,kwetsbaar,onbekend
+Bijen,Grote tuinhommel,Bombus ruderatus,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Grote veldhommel,Bombus magnus,bedreigd,zeer sterk afgenomen
+Bijen,Grote wespbij,Nomada sexfasciata,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Halfgladde dwergzandbij,Andrena semilaevis,kwetsbaar,onbekend
+Bijen,Heidehommel,Bombus humilis,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Heidekegelbij,Coelioxys conica,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Heidewespbij,Nomada rufipes,kwetsbaar,onbekend
+Bijen,Heidezandbij,Andrena fuscipes,kwetsbaar,matig afgenomen
+Bijen,Holkopgroefbij,Halictus compressus,verdwenen uit Nederland,maximaal afgenomen
+Bijen,IJszijdebij,Colletes impunctatus,gevoelig,niet afgenomen
+Bijen,Kale wespbij,Nomada rhenana,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Kalkgraslandwespbij,Nomada piccioliana,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Kattenkruidbij,Anthophora quadrimaculata,bedreigd,matig afgenomen
+Bijen,Kauwende metselbij,Osmia leaiana,bedreigd,zeer sterk afgenomen
+Bijen,Kielstaartkegelbij,Coelioxys alata,gevoelig,maximaal afgenomen
+Bijen,Klaverbehangersbij,Megachile ligniseca,bedreigd,zeer sterk afgenomen
+Bijen,Klaverdikpoot,Melitta leporina,kwetsbaar,matig afgenomen
+Bijen,Klavermetselbij,Osmia ravouxi,ernstig bedreigd,matig afgenomen
+Bijen,Kleine bandgroefbij,Lasioglossum quadrinotatum,bedreigd,sterk afgenomen
+Bijen,Kleine bleekvlekwespbij,Nomada baccata,ernstig bedreigd,onbekend
+Bijen,Kleine bonte wespbij,Nomada roberjeotiana,ernstig bedreigd,maximaal afgenomen
+Bijen,Kleine groefbij,Lasioglossum parvulum,bedreigd,matig afgenomen
+Bijen,Kleine klokjesbij,Chelostoma campanularum,kwetsbaar,matig afgenomen
+Bijen,Kleine lookmaskerbij,Hylaeus leptocephalus,ernstig bedreigd,matig afgenomen
+Bijen,Kleine sachembij,Anthophora bimaculata,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Kleine slanksprietmaskerbij,Hylaeus paulus,gevoelig,onbekend
+Bijen,Kleine tubebij,Stelis minuta,gevoelig,zeer sterk afgenomen
+Bijen,Kleine tuinmaskerbij,Hylaeus pictipes,kwetsbaar,onbekend
+Bijen,Kleine wolbij,Anthidium punctatum,kwetsbaar,matig afgenomen
+Bijen,Klokjesglansbij,Dufourea inermis,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Knautiabij,Andrena hattorfiana,bedreigd,sterk afgenomen
+Bijen,Knautiawespbij,Nomada armata,kwetsbaar,sterk afgenomen
+Bijen,Koolzwarte zandbij,Andrena pilipes,bedreigd,sterk afgenomen
+Bijen,Kortsnuitbloedbij,Sphecodes majalis,gevoelig,onbekend
+Bijen,Kortsprietgroefbij,Lasioglossum brevicorne,kwetsbaar,matig afgenomen
+Bijen,Kraagbloedbij,Sphecodes spinulosus,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Kruisbloemzandbij,Andrena distinguenda,verdwenen uit Nederland,niet afgenomen
+Bijen,Kruiskruidzandbij,Andrena denticulata,bedreigd,sterk afgenomen
+Bijen,Kustbehangersbij,Megachile maritima,bedreigd,sterk afgenomen
+Bijen,Langsprietdwergwespbij,Nomada distinguenda,bedreigd,zeer sterk afgenomen
+Bijen,Lapse behangersbij,Megachile lapponica,kwetsbaar,onbekend
+Bijen,Late hommel,Bombus soroeensis,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Lathyrusbij,Megachile ericetorum,kwetsbaar,matig afgenomen
+Bijen,Lichte bloedbij,Sphecodes hyalinatus,bedreigd,onbekend
+Bijen,Lichte koekoekshommel,Bombus barbutellus,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Limburgse hommel,Bombus pomorum,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Lombardgroefbij,Halictus langobardicus,gevoelig,onbekend
+Bijen,Lookmaskerbij,Hylaeus punctulatissimus,gevoelig,onbekend
+Bijen,Matglanswespbij,Nomada similis,kwetsbaar,matig afgenomen
+Bijen,Matte dwergzandbij,Andrena alfkenella,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Minitubebij,Stelis minima,bedreigd,sterk afgenomen
+Bijen,Moerasmaskerbij,Hylaeus pfankuchi,bedreigd,sterk afgenomen
+Bijen,Mooie sachembij,Anthophora aestivalis,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Moshommel,Bombus muscorum,bedreigd,zeer sterk afgenomen
+Bijen,Noordelijke groefbij,Lasioglossum sexmaculatum,verdwenen uit Nederland,sterk afgenomen
+Bijen,Noordelijke klaverzandbij,Andrena intermedia,ernstig bedreigd,niet afgenomen
+Bijen,Noordelijke sachembij,Anthophora borealis,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Ogentroostdikpoot,Melitta tricincta,kwetsbaar,matig afgenomen
+Bijen,Oranje zandbij,Andrena marginata,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Paardenbloembij,Andrena humilis,kwetsbaar,matig afgenomen
+Bijen,Papaverbij,Hoplitis papaveris,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Platkielwespbij,Nomada obtusifrons,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Ranonkelbij,Chelostoma florisomne,kwetsbaar,matig afgenomen
+Bijen,Rietmaskerbij,Hylaeus pectoralis,kwetsbaar,matig afgenomen
+Bijen,Rimpelsnuit,Andrena combinata,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Rinks maskerbij,Hylaeus rinki,bedreigd,onbekend
+Bijen,Rode koekoekshommel,Bombus rupestris,bedreigd,zeer sterk afgenomen
+Bijen,Rode maskerbij,Hylaeus variegatus,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Rode wespbij,Nomada mutabilis,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Rode zandbij,Andrena schencki,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Roestbruine bloedbij,Sphecodes ferruginatus,kwetsbaar,matig afgenomen
+Bijen,Roodbruine groefbij,Lasioglossum xanthopus,kwetsbaar,matig afgenomen
+Bijen,Roodharige wespbij,Nomada lathburiana,kwetsbaar,matig afgenomen
+Bijen,Roodrandzandbij,Andrena rosae,bedreigd,zeer sterk afgenomen
+Bijen,Roodscheen-zandbij,Andrena ruficrus,kwetsbaar,onbekend
+Bijen,Roodsprietwespbij,Nomada fulvicornis,kwetsbaar,zeer sterk afgenomen
+Bijen,Roodstaartklaverzandbij,Andrena similis,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Rosse kegelbij,Coelioxys rufescens,ernstig bedreigd,sterk afgenomen
+Bijen,Rotsbehangersbij,Megachile pilidens,gevoelig,onbekend
+Bijen,Ruige behangersbij,Megachile circumcincta,bedreigd,sterk afgenomen
+Bijen,Schermbloemzandbij,Andrena nitidiuscula,bedreigd,maximaal afgenomen
+Bijen,Schoorsteengroefbij,Lasioglossum lineare,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Schoorsteensachem,Anthophora plagiata,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Schorviltbij,Epeolus tarsalis ssp. rozenburgensis,gevoelig,niet afgenomen
+Bijen,Slangenkruidbij,Hoplitis adunca,kwetsbaar,sterk afgenomen
+Bijen,Slanke kegelbij,Coelioxys elongata,kwetsbaar,sterk afgenomen
+Bijen,Slurfbij,Rophites quinquespinosus,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Smalbandwespbij,Nomada goodeniana,kwetsbaar,matig afgenomen
+Bijen,Sporkehoutzandbij,Andrena fulvida,kwetsbaar,sterk afgenomen
+Bijen,Steilrandgroefbij,Lasioglossum quadrinotatulum,kwetsbaar,onbekend
+Bijen,Stipmaskerbij,Hylaeus styriacus,gevoelig,niet afgenomen
+Bijen,Stomptandwespbij,Nomada striata,bedreigd,sterk afgenomen
+Bijen,Texelse zandbij,Andrena fulvago,kwetsbaar,sterk afgenomen
+Bijen,Tormentilzandbij,Andrena tarsata,bedreigd,zeer sterk afgenomen
+Bijen,Tuinbladsnijder,Megachile centuncularis,kwetsbaar,matig afgenomen
+Bijen,Tweekleurige koekoekshommel,Bombus bohemicus,kwetsbaar,onbekend
+Bijen,Tweekleurige slakkenhuisbij,Osmia bicolor,verdwenen uit Nederland,sterk afgenomen
+Bijen,Tweekleurige wespbij,Nomada integra,bedreigd,sterk afgenomen
+Bijen,Variabele wespbij,Nomada zonata,gevoelig,niet afgenomen
+Bijen,Variabele zandbij,Andrena varians,bedreigd,matig afgenomen
+Bijen,Veenhommel,Bombus jonellus,kwetsbaar,sterk afgenomen
+Bijen,Vierbandgroefbij,Halictus quadricinctus,ernstig bedreigd,maximaal afgenomen
+Bijen,Viltige groefbij,Lasioglossum prasinum,bedreigd,onbekend
+Bijen,Vlekkenbij,Thyreus orbatus,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Vlekpootwespbij,Nomada melathoracica,gevoelig,onbekend
+Bijen,Vroege bloedbij,Sphecodes rubicundus,bedreigd,sterk afgenomen
+Bijen,Vroege wespbij,Nomada leucophthalma,kwetsbaar,matig afgenomen
+Bijen,Waaiergroefbij,Lasioglossum pallens,gevoelig,onbekend
+Bijen,Waddenhommel,Bombus cullumanus,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Waddenmetselbij,Osmia maritima,verdwenen uit Nederland,matig afgenomen
+Bijen,Waddenviltbij,Epeolus alpinus,verdwenen uit Nederland,niet afgenomen
+Bijen,Wafelbloedbij,Sphecodes scabricollis,kwetsbaar,matig afgenomen
+Bijen,Weidebij,Andrena gravida,kwetsbaar,sterk afgenomen
+Bijen,Weidemaskerbij,Hylaeus incongruus,kwetsbaar,onbekend
+Bijen,Wikkebij,Andrena lathyri,kwetsbaar,onbekend
+Bijen,Witgevlekte tubebij,Stelis ornatula,bedreigd,matig afgenomen
+Bijen,Witte rouwbij,Melecta luctuosa,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Zadeldwergzandbij,Andrena falsifica,bedreigd,onbekend
+Bijen,Zadelgroefbij,Lasioglossum rufitarse,ernstig bedreigd,onbekend
+Bijen,Zandblauwtjesglansbij,Dufourea halictula,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Zandhommel,Bombus veteranus,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Zandloperbij,Ammobates punctatus,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Zesbandgroefbij,Halictus sexcinctus,verdwenen uit Nederland,zeer sterk afgenomen
+Bijen,Zesvlekkige groefbij,Lasioglossum sexnotatum,kwetsbaar,matig afgenomen
+Bijen,Zilveren fluitje,Megachile leachella,kwetsbaar,matig afgenomen
+Bijen,Zilveren zandbij,Andrena argentata,bedreigd,sterk afgenomen
+Bijen,Zuidelijke bronsgroefbij,Halictus leucaheneus,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Zuidelijke dwerggroefbij,Lasioglossum minutulum,ernstig bedreigd,sterk afgenomen
+Bijen,Zuidelijke klokjesbij,Chelostoma distinctum,bedreigd,matig afgenomen
+Bijen,Zuidelijke langhoornbij,Eucera nigrescens,bedreigd,zeer sterk afgenomen
+Bijen,Zwaluwbij,Osmia anthocopoides,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Zwartbronzen houtmetselbij,Osmia niveata,kwetsbaar,sterk afgenomen
+Bijen,Zwarte bloedbij,Sphecodes niger,gevoelig,matig afgenomen
+Bijen,Zwarte sachembij,Anthophora retusa,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Zwarte tubebij,Stelis phaeoptera,ernstig bedreigd,zeer sterk afgenomen
+Bijen,Zwarte wespbij,Nomada argentata,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Zwartflankzandbij,Andrena thoracica,verdwenen uit Nederland,maximaal afgenomen
+Bijen,Zwartsprietwespbij,Nomada flavopicta,kwetsbaar,matig afgenomen
+Zoogdieren,Bever,Castor fiber ssp. albicus,gevoelig,stabiel of toegenomen
+Zoogdieren,Boommarter,Martes martes ssp. martes,kwetsbaar,matig afgenomen
+Zoogdieren,Bruinvis,Phocoena phocoena ssp. phocoena,kwetsbaar,matig afgenomen
+Zoogdieren,Bunzing,Mustela putorius ssp. putorius,onvoldoende gegevens,onbekend
+Zoogdieren,Egel,Erinaceus europaeus ssp. europaeus,onvoldoende gegevens,onbekend
+Zoogdieren,Eikelmuis,Eliomys quercinus,ernstig bedreigd,matig afgenomen
+Zoogdieren,Gewone zeehond,Phoca vitulina ssp. vitulina,kwetsbaar,matig afgenomen
+Zoogdieren,Grijze grootoorvleermuis,Plecotus austriacus ssp. austriacus,kwetsbaar,matig afgenomen
+Zoogdieren,Grijze zeehond,Halichoerus grypus ssp. grypus,gevoelig,stabiel of toegenomen
+Zoogdieren,Grote bosmuis,Apodemus flavicollis,gevoelig,stabiel of toegenomen
+Zoogdieren,Hamster,Cricetus cricetus ssp. canescens,ernstig bedreigd,matig afgenomen
+Zoogdieren,Hazelmuis,Muscardinus avellanarius,bedreigd,matig afgenomen
+Zoogdieren,Hermelijn,Mustela erminea ssp. aestiva,gevoelig,matig afgenomen
+Zoogdieren,Ingekorven vleermuis,Myotis emarginatus ssp. emarginatus,kwetsbaar,matig afgenomen
+Zoogdieren,Kleine hoefijzerneus,Rhinolophus hipposideros ssp. hipposideros,verdwenen uit Nederland,matig afgenomen
+Zoogdieren,Konijn,Oryctolagus cuniculus ssp. cuniculus,gevoelig,matig afgenomen
+Zoogdieren,Laatvlieger,Eptesicus serotinus ssp. serotinus,kwetsbaar,matig afgenomen
+Zoogdieren,Molmuis,Arvicola scherman,onvoldoende gegevens,onbekend
+Zoogdieren,Noordse woelmuis,Microtus oeconomus ssp. arenicola,kwetsbaar,matig afgenomen
+Zoogdieren,Ondergrondse woelmuis,Microtus subterraneus,onvoldoende gegevens,onbekend
+Zoogdieren,Otter,Lutra lutra ssp. lutra,verdwenen uit Nederland,matig afgenomen
+Zoogdieren,Rosse vleermuis,Nyctalus noctula ssp. noctula,kwetsbaar,matig afgenomen
+Zoogdieren,Tuimelaar,Tursiops truncatus ssp. truncatus,verdwenen uit Nederland,matig afgenomen
+Zoogdieren,Tweekleurige vleermuis,Vespertilio murinus ssp. murinus,gevoelig,stabiel of toegenomen
+Zoogdieren,Vale vleermuis,Myotis myotis ssp. myotis,verdwenen uit Nederland,matig afgenomen
+Zoogdieren,Waterspitsmuis,Neomys fodiens ssp. fodiens,kwetsbaar,matig afgenomen
+Zoogdieren,Wezel,Mustela nivalis ssp. vulgaris,gevoelig,matig afgenomen
+Zoogdieren,Zwarte rat,Rattus rattus,bedreigd,matig afgenomen
+Sprinkhanen en krekels,Blauwvleugelsprinkhaan,Oedipoda caerulescens,kwetsbaar,sterk afgenomen
+Sprinkhanen en krekels,Bosdoorntje,Tetrix bipunctata,verdwenen uit Nederland,maximaal afgenomen
+Sprinkhanen en krekels,Europese treksprinkhaan,Locusta migratoria ssp. migratoria,verdwenen uit Nederland,maximaal afgenomen
+Sprinkhanen en krekels,Gouden sprinkhaan,Chrysochraon dispar,kwetsbaar,matig afgenomen
+Sprinkhanen en krekels,Klappersprinkhaan,Psophus stridulus,verdwenen uit Nederland,maximaal afgenomen
+Sprinkhanen en krekels,Kleine wrattenbijter,Gampsocleis glabra,ernstig bedreigd,zeer sterk afgenomen
+Sprinkhanen en krekels,Locomotiefje,Chorthippus apricarius,gevoelig,niet afgenomen
+Sprinkhanen en krekels,Moerassprinkhaan,Stethophyma grossum,kwetsbaar,matig afgenomen
+Sprinkhanen en krekels,Rosse sprinkhaan,Gomphocerippus rufus,gevoelig,niet afgenomen
+Sprinkhanen en krekels,Sikkelsprinkhaan,Phaneroptera falcata,gevoelig,niet afgenomen
+Sprinkhanen en krekels,Steppesprinkhaan,Chorthippus vagans,gevoelig,niet afgenomen
+Sprinkhanen en krekels,Veenmol,Gryllotalpa gryllotalpa,kwetsbaar,matig afgenomen
+Sprinkhanen en krekels,Veldkrekel,Gryllus campestris,bedreigd,zeer sterk afgenomen
+Sprinkhanen en krekels,Weidesprinkhaan,Chorthippus dorsatus,gevoelig,niet afgenomen
+Sprinkhanen en krekels,Wrattenbijter,Decticus verrucivorus,ernstig bedreigd,zeer sterk afgenomen
+Sprinkhanen en krekels,Zadelsprinkhaan,Ephippiger ephippiger ssp. vitium,bedreigd,zeer sterk afgenomen
+Sprinkhanen en krekels,Zoemertje,Stenobothrus lineatus,kwetsbaar,matig afgenomen
+Sprinkhanen en krekels,Zompsprinkhaan,Chorthippus montanus,kwetsbaar,matig afgenomen
+Libellen,Bandheidelibel,Sympetrum pedemontanum,gevoelig,niet afgenomen
+Libellen,Beekoeverlibel,Orthetrum coerulescens ssp. coerulescens,kwetsbaar,matig afgenomen
+Libellen,Beekrombout,Gomphus vulgatissimus,bedreigd,zeer sterk afgenomen
+Libellen,Bosbeekjuffer,Calopteryx virgo ssp. virgo,bedreigd,zeer sterk afgenomen
+Libellen,Bruine korenbout,Libellula fulva,kwetsbaar,matig afgenomen
+Libellen,Bruine winterjuffer,Sympecma fusca,bedreigd,sterk afgenomen
+Libellen,Donkere waterjuffer,Coenagrion armatum,verdwenen uit Nederland,maximaal afgenomen
+Libellen,Dwergjuffer,Nehalennia speciosa,verdwenen uit Nederland,maximaal afgenomen
+Libellen,Gaffellibel,Ophiogomphus cecilia,ernstig bedreigd,zeer sterk afgenomen
+Libellen,Gevlekte glanslibel,Somatochlora flavomaculata,ernstig bedreigd,zeer sterk afgenomen
+Libellen,Gevlekte witsnuitlibel,Leucorrhinia pectoralis,bedreigd,sterk afgenomen
+Libellen,Gewone bronlibel,Cordulegaster boltonii ssp. boltonii,bedreigd,sterk afgenomen
+Libellen,Glassnijder,Brachytron pratense,kwetsbaar,matig afgenomen
+Libellen,Groene glazenmaker,Aeshna viridis,bedreigd,sterk afgenomen
+Libellen,Hoogveenglanslibel,Somatochlora arctica,bedreigd,sterk afgenomen
+Libellen,Kempense heidelibel,Sympetrum depressiusculum,gevoelig,niet afgenomen
+Libellen,Mercuurwaterjuffer,Coenagrion mercuriale ssp. mercuriale,verdwenen uit Nederland,maximaal afgenomen
+Libellen,Noordse glazenmaker,Aeshna subarctica ssp. elisabethae,bedreigd,sterk afgenomen
+Libellen,Noordse winterjuffer,Sympecma annulata ssp. braueri,ernstig bedreigd,zeer sterk afgenomen
+Libellen,Oostelijke witsnuitlibel,Leucorrhinia albifrons,ernstig bedreigd,zeer sterk afgenomen
+Libellen,Rivierrombout,Gomphus flavipes ssp. flavipes,verdwenen uit Nederland,maximaal afgenomen
+Libellen,Sierlijke witsnuitlibel,Leucorrhinia caudalis,verdwenen uit Nederland,maximaal afgenomen
+Libellen,Speerwaterjuffer,Coenagrion hastulatum,ernstig bedreigd,zeer sterk afgenomen
+Libellen,Tengere pantserjuffer,Lestes virens ssp. vestalis,kwetsbaar,matig afgenomen
+Libellen,Venwitsnuitlibel,Leucorrhinia dubia ssp. dubia,kwetsbaar,matig afgenomen
+Libellen,Vroege glazenmaker,Aeshna isosceles ssp. isosceles,kwetsbaar,sterk afgenomen
+Libellen,Zuidelijke oeverlibel,Orthetrum brunneum,gevoelig,niet afgenomen
+Platwormen,,Bdellocephala punctata,bedreigd,sterk afgenomen
+Platwormen,,Crenobia alpina,bedreigd,sterk afgenomen
+Platwormen,,Planaria torva,kwetsbaar,sterk afgenomen
+Platwormen,,Polycelis felina,kwetsbaar,matig afgenomen
+Weekdieren,Basters drijfslak,Heleobia stagnorum,bedreigd,zeer sterk afgenomen
+Weekdieren,Bataafse stroommossel,Unio crassus,verdwenen uit Nederland,maximaal afgenomen
+Weekdieren,Bijenkorfje,Spermodea lamellata,verdwenen uit Nederland,maximaal afgenomen
+Weekdieren,Brakwatermossel,Congeria leucophaeata,kwetsbaar,matig afgenomen
+Weekdieren,Cylindrische korfslak,Truncatellina cylindrica,kwetsbaar,matig afgenomen
+Weekdieren,Dikke korfslak,Vertigo antivertigo,kwetsbaar,sterk afgenomen
+Weekdieren,Driehoekige erwtenmossel,Pisidium supinum,kwetsbaar,matig afgenomen
+Weekdieren,Dwerg-korfslak,Vertigo pygmaea,kwetsbaar,matig afgenomen
+Weekdieren,Eeltslak,Lithoglyphus naticoides,kwetsbaar,matig afgenomen
+Weekdieren,Eénbandige grasslak,Candidula unifasciata,ernstig bedreigd,zeer sterk afgenomen
+Weekdieren,Fijngeribde grasslak,Candidula gigaxii,bedreigd,sterk afgenomen
+Weekdieren,Fijngestreepte erwtenmossel,Pisidium tenuilineatum,verdwenen uit Nederland,maximaal afgenomen
+Weekdieren,Fraaie erwtenmossel,Pisidium pulchellum,kwetsbaar,matig afgenomen
+Weekdieren,Geelvlekslak,Marstoniopsis scholtzii,kwetsbaar,matig afgenomen
+Weekdieren,Gegroefde naaldslak,Acicula fusca,gevoelig,niet afgenomen
+Weekdieren,Gemaskerde erwtenmossel,Pisidium personatum,kwetsbaar,matig afgenomen
+Weekdieren,Genaveld tonnetje,Lauria cylindracea,kwetsbaar,matig afgenomen
+Weekdieren,Geruite rondmondhoren,Pomatias elegans,kwetsbaar,matig afgenomen
+Weekdieren,Gestippelde kielnaaktslak,Tandonia rustica,gevoelig,niet afgenomen
+Weekdieren,Gestreepte korfslak,Vertigo substriata,bedreigd,sterk afgenomen
+Weekdieren,Getijdeslak,Mercuria confusa,ernstig bedreigd,zeer sterk afgenomen
+Weekdieren,Gladde clausilia,Cochlodina laminata,kwetsbaar,matig afgenomen
+Weekdieren,Gladde erwtenmossel,Pisidium hibernicum,kwetsbaar,matig afgenomen
+Weekdieren,Gladde naaldslak,Platyla polita,gevoelig,niet afgenomen
+Weekdieren,Gladde schijfhoren,Gyraulus laevis,bedreigd,sterk afgenomen
+Weekdieren,Gray's kustslak,Assiminea grayana,bedreigd,zeer sterk afgenomen
+Weekdieren,Grofgestreepte glimslak,Zonitoides excavatus,ernstig bedreigd,zeer sterk afgenomen
+Weekdieren,Grootmondpluimdrager,Valvata macrostoma,ernstig bedreigd,zeer sterk afgenomen
+Weekdieren,Grote glasslak,Phenacolimax major,kwetsbaar,matig afgenomen
+Weekdieren,Heideslak,Helicella itala,bedreigd,sterk afgenomen
+Weekdieren,Kleine blinkslak,Aegopinella pura,bedreigd,sterk afgenomen
+Weekdieren,Kleine clausilia,Clausilia rugosa ssp. parvula,ernstig bedreigd,zeer sterk afgenomen
+Weekdieren,Kleine karthuizerslak,Monacha cartusiana,bedreigd,sterk afgenomen
+Weekdieren,Kleverige poelslak,Myxas glutinosa,ernstig bedreigd,zeer sterk afgenomen
+Weekdieren,Knotwilgslak,Clausilia dubia,bedreigd,sterk afgenomen
+Weekdieren,Lichte aardslak,Limax flavus,kwetsbaar,matig afgenomen
+Weekdieren,Meertandig muizeoortje,Ovatella denticulata,gevoelig,niet afgenomen
+Weekdieren,Muizeoortje,Ovatella myosotis,kwetsbaar,matig afgenomen
+Weekdieren,Nauwe korfslak,Vertigo angustior,bedreigd,sterk afgenomen
+Weekdieren,Oever-loofslak,Pseudotrichia rubiginosa,bedreigd,sterk afgenomen
+Weekdieren,Oeverschijfhoren,Gyraulus riparius,bedreigd,sterk afgenomen
+Weekdieren,Oorvormige glasslak,Eucobresia diaphana,gevoelig,niet afgenomen
+Weekdieren,Opgerolde tandslak,Helicodonta obvoluta,bedreigd,sterk afgenomen
+Weekdieren,Opgezwollen brakwaterhoren,Ventrosia ventrosa,kwetsbaar,matig afgenomen
+Weekdieren,Platte schijfhoren,Anisus vorticulus,kwetsbaar,matig afgenomen
+Weekdieren,Platte zwanemossel,Pseudanodonta complanata,bedreigd,sterk afgenomen
+Weekdieren,Rijn-glasslak,Vitrinobrachium breve,gevoelig,niet afgenomen
+Weekdieren,Rivier-erwtenmossel,Pisidium amnicum,kwetsbaar,matig afgenomen
+Weekdieren,Rivier-hoornschaal,Sphaerium rivicola,kwetsbaar,matig afgenomen
+Weekdieren,Rode barnsteenslak,Catinella arenaria,verdwenen uit Nederland,maximaal afgenomen
+Weekdieren,Rosse haarslak,Trichia rufescens,bedreigd,sterk afgenomen
+Weekdieren,Schorshorentje,Balea perversa,bedreigd,zeer sterk afgenomen
+Weekdieren,Slanke poelslak,Omphiscola glabra,kwetsbaar,matig afgenomen
+Weekdieren,Sphaeriumvormige erwtenmossel,Pisidium pseudosphaerium,bedreigd,zeer sterk afgenomen
+Weekdieren,Steenbikker,Helicigona lapicida,kwetsbaar,matig afgenomen
+Weekdieren,Stevige hoornschaal,Sphaerium solidum,kwetsbaar,matig afgenomen
+Weekdieren,Stompe grondwaterslak,Avenionia brevis ssp. roberti,gevoelig,niet afgenomen
+Weekdieren,Struikslak,Fruticicola fruticum,kwetsbaar,matig afgenomen
+Weekdieren,Tandloze korfslak,Columella edentula,kwetsbaar,matig afgenomen
+Weekdieren,Tweeling-barnsteenslak,Oxyloma sarsii,bedreigd,zeer sterk afgenomen
+Weekdieren,Vaatjesslak,Sphyradium doliolum,kwetsbaar,matig afgenomen
+Weekdieren,Vliezige drijfhoren,Rissoa membranacea,verdwenen uit Nederland,maximaal afgenomen
+Weekdieren,Wijngaardslak,Helix pomatia,kwetsbaar,matig afgenomen
+Weekdieren,Wit muizeoortje,Auriculinella erosa,ernstig bedreigd,zeer sterk afgenomen
+Weekdieren,Witte akkerslak,Deroceras agreste,gevoelig,niet afgenomen
+Weekdieren,Zeggekorfslak,Vertigo moulinsiana,kwetsbaar,matig afgenomen
+Weekdieren,Zoetwaterneriet,Theodoxus fluviatilis,kwetsbaar,matig afgenomen
+Weekdieren,Zwarte aardslak,Limax cinereoniger,kwetsbaar,matig afgenomen
+Kokerjuffers,,Adicella filicornis,gevoelig,niet afgenomen
+Kokerjuffers,,Agapetus ochripes,gevoelig,niet afgenomen
+Kokerjuffers,,Agrypnia obsoleta,kwetsbaar,matig afgenomen
+Kokerjuffers,,Allogamus auricollis,gevoelig,niet afgenomen
+Kokerjuffers,,Anabolia brevipennis,kwetsbaar,matig afgenomen
+Kokerjuffers,,Annitella obscurata,gevoelig,niet afgenomen
+Kokerjuffers,,Apatania fimbriata,gevoelig,niet afgenomen
+Kokerjuffers,,Athripsodes albifrons,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Brachycentrus subnubilus,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Ceraclea alboguttata,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Ceraclea dissimilis,kwetsbaar,sterk afgenomen
+Kokerjuffers,,Ceraclea nigronervosa,bedreigd,sterk afgenomen
+Kokerjuffers,,Drusus annulatus,gevoelig,niet afgenomen
+Kokerjuffers,,Drusus trifidus,gevoelig,niet afgenomen
+Kokerjuffers,,Ernodes articularis,kwetsbaar,matig afgenomen
+Kokerjuffers,,Glossosoma conformis,gevoelig,niet afgenomen
+Kokerjuffers,,Goera pilosa,kwetsbaar,matig afgenomen
+Kokerjuffers,,Grammotaulius nigropunctatus,bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Grammotaulius nitidus,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Grammotaulius submaculatus,gevoelig,niet afgenomen
+Kokerjuffers,,Hagenella clathrata,kwetsbaar,matig afgenomen
+Kokerjuffers,,Halesus tessellatus,bedreigd,sterk afgenomen
+Kokerjuffers,,Holocentropus insignis,verdwenen uit Nederland,maximaal afgenomen
+Kokerjuffers,,Hydatophylax infumatus,gevoelig,niet afgenomen
+Kokerjuffers,,Hydropsyche dinarica,gevoelig,niet afgenomen
+Kokerjuffers,,Hydropsyche fulvipes,gevoelig,niet afgenomen
+Kokerjuffers,,Hydropsyche instabilis,kwetsbaar,matig afgenomen
+Kokerjuffers,,Hydropsyche modesta,gevoelig,niet afgenomen
+Kokerjuffers,,Hydropsyche pellucidula,kwetsbaar,matig afgenomen
+Kokerjuffers,,Hydroptila cornuta,verdwenen uit Nederland,maximaal afgenomen
+Kokerjuffers,,Hydroptila dampfi,verdwenen uit Nederland,maximaal afgenomen
+Kokerjuffers,,Hydroptila pulchricornis,gevoelig,niet afgenomen
+Kokerjuffers,,Hydroptila sparsa,bedreigd,sterk afgenomen
+Kokerjuffers,,Hydroptila tineoides,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Ithytrichia lamellaris,verdwenen uit Nederland,maximaal afgenomen
+Kokerjuffers,,Lasiocephala basalis,kwetsbaar,matig afgenomen
+Kokerjuffers,,Lepidostoma hirtum,bedreigd,sterk afgenomen
+Kokerjuffers,,Leptocerus interruptus,kwetsbaar,matig afgenomen
+Kokerjuffers,,Leptocerus tineiformis,kwetsbaar,matig afgenomen
+Kokerjuffers,,Limnephilus auricula,kwetsbaar,matig afgenomen
+Kokerjuffers,,Limnephilus binotatus,kwetsbaar,matig afgenomen
+Kokerjuffers,,Limnephilus bipunctatus,gevoelig,niet afgenomen
+Kokerjuffers,,Limnephilus centralis,kwetsbaar,matig afgenomen
+Kokerjuffers,,Limnephilus elegans,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Limnephilus fuscicornis,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Limnephilus griseus,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Limnephilus ignavus,kwetsbaar,matig afgenomen
+Kokerjuffers,,Limnephilus incisus,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Limnephilus luridus,kwetsbaar,matig afgenomen
+Kokerjuffers,,Limnephilus marmoratus,kwetsbaar,matig afgenomen
+Kokerjuffers,,Limnephilus nigriceps,bedreigd,sterk afgenomen
+Kokerjuffers,,Limnephilus stigma,bedreigd,sterk afgenomen
+Kokerjuffers,,Limnephilus vittatus,kwetsbaar,matig afgenomen
+Kokerjuffers,,Lithax obscurus,gevoelig,niet afgenomen
+Kokerjuffers,,Lype phaeopa,kwetsbaar,matig afgenomen
+Kokerjuffers,,Melampophylax mucoreus,gevoelig,niet afgenomen
+Kokerjuffers,,Micrasemodes minimus,verdwenen uit Nederland,maximaal afgenomen
+Kokerjuffers,,Molanna albicans,gevoelig,niet afgenomen
+Kokerjuffers,,Neureclepsis bimaculata,kwetsbaar,matig afgenomen
+Kokerjuffers,,Notidobia ciliaris,kwetsbaar,matig afgenomen
+Kokerjuffers,,Odontocerum albicorne,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Oecetis notata,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Oligoplectrum maculatum,verdwenen uit Nederland,maximaal afgenomen
+Kokerjuffers,,Oligostomis reticulata,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Oxyethira falcata,gevoelig,niet afgenomen
+Kokerjuffers,,Parachiona picicornis,gevoelig,niet afgenomen
+Kokerjuffers,,Polycentropus flavomaculatus,kwetsbaar,matig afgenomen
+Kokerjuffers,,Potamophylax luctuosus,gevoelig,niet afgenomen
+Kokerjuffers,,Psychomyia pusilla,gevoelig,niet afgenomen
+Kokerjuffers,,Ptilocolepus granulatus,gevoelig,niet afgenomen
+Kokerjuffers,,Rhadicoleptus alpestris,gevoelig,niet afgenomen
+Kokerjuffers,,Sericostoma flavicorne,verdwenen uit Nederland,maximaal afgenomen
+Kokerjuffers,,Setodes argentipunctellus,gevoelig,niet afgenomen
+Kokerjuffers,,Setodes punctatus,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Setodes viridis,verdwenen uit Nederland,maximaal afgenomen
+Kokerjuffers,,Silo piceus,verdwenen uit Nederland,maximaal afgenomen
+Kokerjuffers,,Stenophylax permistus,bedreigd,sterk afgenomen
+Kokerjuffers,,Tinodes pallidulus,gevoelig,niet afgenomen
+Kokerjuffers,,Tinodes unicolor,gevoelig,niet afgenomen
+Kokerjuffers,,Triaenodes reuteri,ernstig bedreigd,zeer sterk afgenomen
+Kokerjuffers,,Triaenodes simulans,bedreigd,sterk afgenomen
+Kokerjuffers,,Trichostegia minor,kwetsbaar,matig afgenomen
+Kokerjuffers,,Wormaldia occipitalis,gevoelig,niet afgenomen
+Kokerjuffers,,Wormaldia subnigra,gevoelig,niet afgenomen
+Haften,,Ametropus fragilis,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Baetis buceratus,gevoelig,niet afgenomen
+Haften,,Baetis digitatus,gevoelig,niet afgenomen
+Haften,,Baetis lutheri,gevoelig,niet afgenomen
+Haften,,Baetis muticus,gevoelig,niet afgenomen
+Haften,,Baetis niger,gevoelig,niet afgenomen
+Haften,,Baetis tracheatus,gevoelig,niet afgenomen
+Haften,,Brachycercus harrisella,gevoelig,niet afgenomen
+Haften,,Caenis lactea,gevoelig,niet afgenomen
+Haften,,Caenis rivulorum,gevoelig,niet afgenomen
+Haften,,Centroptilum pennulatum,gevoelig,niet afgenomen
+Haften,,Choroterpes picteti,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Ecdyonurus affinis,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Ecdyonurus dispar,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Ecdyonurus insignis,gevoelig,niet afgenomen
+Haften,,Ecdyonurus lateralis,kwetsbaar,matig afgenomen
+Haften,,Ecdyonurus torrentis,gevoelig,niet afgenomen
+Haften,,Ecdyonurus venosus,gevoelig,niet afgenomen
+Haften,,Ephemera glaucops,ernstig bedreigd,zeer sterk afgenomen
+Haften,,Ephemera vulgata,kwetsbaar,matig afgenomen
+Haften,,Habroleptoides modesta,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Habrophlebia lauta,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Heptagenia coerulans,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Heptagenia flava,kwetsbaar,maximaal afgenomen
+Haften,,Heptagenia fuscogrisea,ernstig bedreigd,zeer sterk afgenomen
+Haften,,Heptagenia longicauda,ernstig bedreigd,zeer sterk afgenomen
+Haften,,Heptagenia sulphurea,bedreigd,sterk afgenomen
+Haften,,Isonychia ignota,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Leptophlebia marginata,kwetsbaar,matig afgenomen
+Haften,,Metreletus balcanicus,gevoelig,niet afgenomen
+Haften,,Oligoneuriella rhenana,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Palingenia longicauda,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Paraleptophlebia cincta,gevoelig,niet afgenomen
+Haften,,Paraleptophlebia submarginata,kwetsbaar,matig afgenomen
+Haften,,Potamanthus luteus,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Siphlonurus aestivalis,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Siphlonurus alternatus,verdwenen uit Nederland,maximaal afgenomen
+Haften,,Siphlonurus armatus,gevoelig,niet afgenomen
+Haften,,Siphlonurus lacustris,verdwenen uit Nederland,maximaal afgenomen
+Dagvlinders,Aardbeivlinder,Pyrgus malvae ssp. malvae,bedreigd,matig afgenomen
+Dagvlinders,Bont dikkopje,Carterocephalus palaemon,kwetsbaar,matig afgenomen
+Dagvlinders,Bosparelmoervlinder,Melitaea athalia ssp. athalia,ernstig bedreigd,matig afgenomen
+Dagvlinders,Boswitje,Leptidea sinapis,bedreigd,stabiel of toegenomen
+Dagvlinders,Bruin blauwtje,Aricia agestis ssp. agestis,gevoelig,matig afgenomen
+Dagvlinders,Bruin dikkopje,Erynnis tages,ernstig bedreigd,matig afgenomen
+Dagvlinders,bruine eikenpage,Satyrium ilicis,bedreigd,matig afgenomen
+Dagvlinders,Bruine vuurvlinder,Lycaena tityrus ssp. tityrus,kwetsbaar,matig afgenomen
+Dagvlinders,Donker pimpernelblauwtje,Phengaris nausithous,ernstig bedreigd,matig afgenomen
+Dagvlinders,Duinparelmoervlinder,Argynnis niobe,bedreigd,matig afgenomen
+Dagvlinders,Dwergblauwtje,Cupido minimus ssp. minimus,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Dwergdikkopje,Thymelicus acteon ssp. acteon,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Geelsprietdikkopje,Thymelicus sylvestris,bedreigd,onbekend
+Dagvlinders,Gele luzernevlinder,Colias hyale,bedreigd,onbekend
+Dagvlinders,Gentiaanblauwtje,Phengaris alcon,bedreigd,matig afgenomen
+Dagvlinders,Groot dikkopje,Ochlodes faunus,gevoelig,matig afgenomen
+Dagvlinders,Groot geaderd witje,Aporia crataegi,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Grote ijsvogelvlinder,Limenitis populi,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Grote parelmoervlinder,Argynnis aglaja,ernstig bedreigd,matig afgenomen
+Dagvlinders,Grote vos,Nymphalis polychloros,kwetsbaar,matig afgenomen
+Dagvlinders,Grote vuurvlinder,Lycaena dispar ssp. batava,ernstig bedreigd,matig afgenomen
+Dagvlinders,Grote weerschijnvlinder,Apatura iris,ernstig bedreigd,matig afgenomen
+Dagvlinders,Heideblauwtje,Plebeius argus ssp. argus,kwetsbaar,matig afgenomen
+Dagvlinders,Heivlinder,Hipparchia semele ssp. semele,kwetsbaar,matig afgenomen
+Dagvlinders,Iepenpage,Satyrium w-album,ernstig bedreigd,matig afgenomen
+Dagvlinders,Kaasjeskruiddikkopje,Carcharodus alceae,gevoelig,onbekend
+Dagvlinders,Kalkgraslanddikkopje,Spialia sertorius ssp. sertorius,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Keizersmantel,Argynnis paphia,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Klaverblauwtje,Cyaniris semiargus ssp. semiargus,ernstig bedreigd,matig afgenomen
+Dagvlinders,Kleine heivlinder,Hipparchia statilinus,ernstig bedreigd,matig afgenomen
+Dagvlinders,Kleine ijsvogelvlinder,Limenitis camilla,kwetsbaar,matig afgenomen
+Dagvlinders,Kleine parelmoervlinder,Issoria lathonia,kwetsbaar,matig afgenomen
+Dagvlinders,Kommavlinder,Hesperia comma,bedreigd,matig afgenomen
+Dagvlinders,Moerasparelmoervlinder,Euphydryas aurinia ssp. aurinia,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Oranje zandoogje,Pyronia tithonus,gevoelig,onbekend
+Dagvlinders,Pimpernelblauwtje,Phengaris teleius,ernstig bedreigd,matig afgenomen
+Dagvlinders,Purperstreepparelmoervlinder,Brenthis ino,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Rode vuurvlinder,Lycaena hippothoe ssp. hippothoe,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Rouwmantel,Nymphalis antiopa,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Sleedoornpage,Thecla betulae,bedreigd,matig afgenomen
+Dagvlinders,Spiegeldikkopje,Heteropterus morpheus,kwetsbaar,matig afgenomen
+Dagvlinders,Tijmblauwtje,Phengaris arion,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Tweekleurig hooibeestje,Coenonympha arcania,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Vals heideblauwtje,Plebeius idas ssp. idas,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Veenbesblauwtje,Plebeius optilete,ernstig bedreigd,matig afgenomen
+Dagvlinders,Veenbesparelmoervlinder,Boloria aquilonaris,ernstig bedreigd,matig afgenomen
+Dagvlinders,Veenhooibeestje,Coenonympha tullia ssp. tullia,ernstig bedreigd,matig afgenomen
+Dagvlinders,Veldparelmoervlinder,Melitaea cinxia,ernstig bedreigd,matig afgenomen
+Dagvlinders,Woudparelmoervlinder,Melitaea diamina,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Zilveren maan,Boloria selene,bedreigd,matig afgenomen
+Dagvlinders,Zilverstreephooibeestje,Coenonympha hero,verdwenen uit Nederland,matig afgenomen
+Dagvlinders,Zilvervlek,Boloria euphrosyne,verdwenen uit Nederland,matig afgenomen
+Steenvliegen,,Amphinemura standfussi,kwetsbaar,matig afgenomen
+Steenvliegen,,Amphinemura sulcicollis,kwetsbaar,matig afgenomen
+Steenvliegen,,Euleuctra geniculata,verdwenen uit Nederland,maximaal afgenomen
+Steenvliegen,,Isogenus nubecula,verdwenen uit Nederland,maximaal afgenomen
+Steenvliegen,,Isoperla grammatica,verdwenen uit Nederland,maximaal afgenomen
+Steenvliegen,,Isoptena serricornis,verdwenen uit Nederland,maximaal afgenomen
+Steenvliegen,,Leuctra fusca,verdwenen uit Nederland,maximaal afgenomen
+Steenvliegen,,Leuctra nigra,ernstig bedreigd,zeer sterk afgenomen
+Steenvliegen,,Marthamea selysii,verdwenen uit Nederland,maximaal afgenomen
+Steenvliegen,,Nemoura avicularis,kwetsbaar,matig afgenomen
+Steenvliegen,,Nemoura cambrica,kwetsbaar,matig afgenomen
+Steenvliegen,,Nemoura dubitans,bedreigd,sterk afgenomen
+Steenvliegen,,Nemoura marginata,kwetsbaar,matig afgenomen
+Steenvliegen,,Nemurella pictetii,kwetsbaar,matig afgenomen
+Steenvliegen,,Perlodes microcephala,kwetsbaar,matig afgenomen
+Steenvliegen,,Protonemura meyeri,gevoelig,niet afgenomen
+Steenvliegen,,Protonemura nitida,verdwenen uit Nederland,maximaal afgenomen
+Steenvliegen,,Taeniopteryx nebulosa,verdwenen uit Nederland,maximaal afgenomen
+Steenvliegen,,Xanthoperla apicalis,verdwenen uit Nederland,maximaal afgenomen
+Reptielen,Adder,Vipera berus ssp. berus,kwetsbaar,matig afgenomen
+Reptielen,Gladde slang,Coronella austriaca ssp. austriaca,bedreigd,matig afgenomen
+Reptielen,Levendbarende hagedis,Zootoca vivipara ssp. vivipara,gevoelig,matig afgenomen
+Reptielen,Muurhagedis,Podarcis muralis ssp. brongniardii,ernstig bedreigd,matig afgenomen
+Reptielen,Fijngeribde grasslak,Natrix helvetica,kwetsbaar,matig afgenomen
+Reptielen,Zandhagedis,Lacerta agilis ssp. agilis,kwetsbaar,matig afgenomen
