@@ -5,7 +5,6 @@ This application helps users navigate through the list of endangered animal spec
 
 This application was made during the course Human Computer Interaction at the University Leiden.
 
-Feel free to use this application for educational purposes.
 
 How to download:
 1. Download the ZIP file.
